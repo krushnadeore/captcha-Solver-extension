@@ -1,0 +1,2 @@
+# captcha-Solver-extension
+chrome
